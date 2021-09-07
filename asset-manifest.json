@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Amazon-clone/static/css/main.a617e044.chunk.css",
+    "main.js": "/Amazon-clone/static/js/main.59b3ce89.chunk.js",
+    "main.js.map": "/Amazon-clone/static/js/main.59b3ce89.chunk.js.map",
+    "runtime-main.js": "/Amazon-clone/static/js/runtime-main.517e6afd.js",
+    "runtime-main.js.map": "/Amazon-clone/static/js/runtime-main.517e6afd.js.map",
+    "static/js/2.1b3c9ce9.chunk.js": "/Amazon-clone/static/js/2.1b3c9ce9.chunk.js",
+    "static/js/2.1b3c9ce9.chunk.js.map": "/Amazon-clone/static/js/2.1b3c9ce9.chunk.js.map",
+    "static/js/3.9bb0d0e6.chunk.js": "/Amazon-clone/static/js/3.9bb0d0e6.chunk.js",
+    "static/js/3.9bb0d0e6.chunk.js.map": "/Amazon-clone/static/js/3.9bb0d0e6.chunk.js.map",
+    "index.html": "/Amazon-clone/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Amazon-clone/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1b3c9ce9.chunk.js.LICENSE.txt": "/Amazon-clone/static/js/2.1b3c9ce9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Amazon-clone/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.517e6afd.js",
+    "static/js/2.1b3c9ce9.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.59b3ce89.chunk.js"
+  ]
+}
